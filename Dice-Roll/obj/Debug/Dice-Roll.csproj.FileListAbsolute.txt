@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\bin\Debug\Dice-Roll.exe.config
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\bin\Debug\Dice-Roll.exe
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\bin\Debug\Dice-Roll.pdb
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\obj\Debug\Dice-Roll.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\obj\Debug\Dice-Roll.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\obj\Debug\Dice-Roll.exe
+C:\Users\fatmo\Grand Circus\Labs\6\Dice-Roll\Dice-Roll\obj\Debug\Dice-Roll.pdb
